@@ -47,7 +47,7 @@ class App extends Component {
                 wikiData={this.state.wikiData}/>
         {this.state.weatherLoaded &&
         <footer>
-          By: <a id='link-to-motherland' href="http://eddiebrunstedt.com">Eddie Brunstedt</a>
+          By: <a id='link-to-motherland' href="https://github.com/EddieBrunstedt/">Eddie Brunstedt</a>
         </footer>
         }
       </div>
